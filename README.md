@@ -44,6 +44,7 @@ Convolutional Neural Network (CNN)
 * Validation Accuracy: 55%
 
 (Results based on current training session)
+![Accuracy Graph](accuracy.graph.png)
 
 ---
 
